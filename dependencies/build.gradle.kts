@@ -56,6 +56,6 @@ dependencies {
         api("org.jooq:jooq:3.17.2")
         api("org.mongodb:mongodb-driver-reactivestreams:4.6.1")
         api("org.reflections:reflections:0.10.2")
-        api("org.springframework.boot:spring-boot-gradle-plugin:2.7.2")
+        api("org.springframework.boot:spring-boot-gradle-plugin:3.0.2")
     }
 }
